@@ -8,7 +8,7 @@
     #Partition file in nexus format.
 
 # Named variables. Every run needs the following defined:
-# 1) --in_dir - The directory containing the nexus alignments that need to be merged.
+# 1) --in_dir - The directory containing the .fasta alignments that need to be merged.
 # 2) --out - The full filepath and name you want for the output file.
 
 import os
