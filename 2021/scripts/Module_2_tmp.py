@@ -16,14 +16,6 @@ args = parser.parse_args()
 
 INPUT_FILE = args.in_domains
 
-import pandas as pd
-import numpy as np
-import networkx as nx
-import matplotlib.pyplot as plt
-import matplotlib as mpl
-import matplotlib.cm as cm
-import argparse
-
 #Reading of the input file (output of module 1) and creation of dataframe for subsequent analyses :
 Domain_arr = pd.read_csv(INPUT_FILE,sep='\t',header=0)
 list_tmp = list(Domain_arr['Domain'].str.split('-'))
