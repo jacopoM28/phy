@@ -1,5 +1,5 @@
 
-# MP_bioinfo_2021
+# MP_bioinfo_2022
 Curated by *Martelossi Jacopo* with the high contribution of the 2020 tutorship of *Giobbe Forni*.
 <br/><br/> 
 Teaching assistantship for the molecular phylogenetics classes of the Master in Bioinformatics at the University of Bologna.
